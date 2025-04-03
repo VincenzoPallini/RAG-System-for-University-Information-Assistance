@@ -34,5 +34,3 @@ An evaluation system (`evaluate.py`) has been implemented using the CRAG (Correc
     * **SentenceTransformers:** Library for calculating semantic similarity (Model used: `all-MiniLM-L6-v2`).
     * **RAGElo:** Framework for automated evaluation of RAG systems.
 * **Data Processing:** `langchain_text_splitters`, `langchain_community.document_loaders` (`PyPDFDirectoryLoader`).
-* **User Interface:** Tkinter.
-* **Other Libraries:** `argparse`, `os`, `shutil`, `threading`, `numpy`, `json`, `re`, `logging`, `tqdm`, `asyncio`.
