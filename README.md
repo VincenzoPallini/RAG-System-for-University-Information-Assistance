@@ -29,7 +29,7 @@ An evaluation system (`evaluate.py`) has been implemented using the CRAG (Correc
 * **Language:** Python
 * **Core AI/ML:**
     * **LangChain:** Framework for orchestrating LLM applications.
-    * **Ollama:** For running LLMs locally (Models used: `phi4:14b` for generation/chat and evaluation, `gemma2:2b` for QA generation in testing, `nomic-embed-text` for embeddings).
+    * **Ollama:** For running LLMs locally (Models used: `phi4:14b`, `gemma2:2b`, `nomic-embed-text` for embeddings).
     * **ChromaDB:** Vector database for indexing and retrieving embeddings.
     * **SentenceTransformers:** Library for calculating semantic similarity (Model used: `all-MiniLM-L6-v2`).
     * **RAGElo:** Framework for automated evaluation of RAG systems.
